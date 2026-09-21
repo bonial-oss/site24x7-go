@@ -1,4 +1,4 @@
-module github.com/Bonial-International-GmbH/site24x7-go
+module github.com/bonial-oss/site24x7-go
 
 go 1.25.10
 

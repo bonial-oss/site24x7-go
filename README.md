@@ -1,9 +1,9 @@
 site24x7-go
 ===========
 
-[![Build Status](https://github.com/Bonial-International-GmbH/site24x7-go/workflows/build/badge.svg)](https://github.com/Bonial-International-GmbH/site24x7-go/actions?query=workflow%3Abuild)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Bonial-International-GmbH/site24x7-go?style=flat)](https://goreportcard.com/report/github.com/Bonial-International-GmbH/site24x7-go)
-[![GoDoc](https://godoc.org/github.com/Bonial-International-GmbH/site24x7-go?status.svg)](https://godoc.org/github.com/Bonial-International-GmbH/site24x7-go)
+[![Build Status](https://github.com/bonial-oss/site24x7-go/workflows/build/badge.svg)](https://github.com/bonial-oss/site24x7-go/actions?query=workflow%3Abuild)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bonial-oss/site24x7-go?style=flat)](https://goreportcard.com/report/github.com/bonial-oss/site24x7-go)
+[![GoDoc](https://godoc.org/github.com/bonial-oss/site24x7-go?status.svg)](https://godoc.org/github.com/bonial-oss/site24x7-go)
 
 An API client for [Site24x7](https://www.site24x7.com) written in go. Currently
 the following endpoints are implemented:
@@ -49,7 +49,7 @@ Installation
 ------------
 
 ```
-go get -u github.com/Bonial-International-GmbH/site24x7-go
+go get -u github.com/bonial-oss/site24x7-go
 ```
 
 Usage Example
@@ -70,10 +70,10 @@ import (
 	"os"
 	"time"
 
-	site24x7 "github.com/Bonial-International-GmbH/site24x7-go"
-	"github.com/Bonial-International-GmbH/site24x7-go/api"
-	apierrors "github.com/Bonial-International-GmbH/site24x7-go/api/errors"
-	"github.com/Bonial-International-GmbH/site24x7-go/backoff"
+	site24x7 "github.com/bonial-oss/site24x7-go"
+	"github.com/bonial-oss/site24x7-go/api"
+	apierrors "github.com/bonial-oss/site24x7-go/api/errors"
+	"github.com/bonial-oss/site24x7-go/backoff"
 )
 
 func main() {
@@ -122,9 +122,9 @@ func main() {
 ```
 
 Refer to the
-[godoc](https://godoc.org/github.com/Bonial-International-GmbH/site24x7-go) for
+[godoc](https://godoc.org/github.com/bonial-oss/site24x7-go) for
 all available endpoints and
-[API types](https://godoc.org/github.com/Bonial-International-GmbH/site24x7-go/api).
+[API types](https://godoc.org/github.com/bonial-oss/site24x7-go/api).
 
 Also check out the other usage examples in the [_examples/](_examples/) subdirectory.
 
