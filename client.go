@@ -4,10 +4,10 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/Bonial-International-GmbH/site24x7-go/api/endpoints"
-	"github.com/Bonial-International-GmbH/site24x7-go/backoff"
-	"github.com/Bonial-International-GmbH/site24x7-go/oauth"
-	"github.com/Bonial-International-GmbH/site24x7-go/rest"
+	"github.com/bonial-oss/site24x7-go/api/endpoints"
+	"github.com/bonial-oss/site24x7-go/backoff"
+	"github.com/bonial-oss/site24x7-go/oauth"
+	"github.com/bonial-oss/site24x7-go/rest"
 )
 
 const (
