@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	site24x7 "github.com/Bonial-International-GmbH/site24x7-go"
-	"github.com/Bonial-International-GmbH/site24x7-go/location"
+	site24x7 "github.com/bonial-oss/site24x7-go"
+	"github.com/bonial-oss/site24x7-go/location"
 )
 
 func main() {

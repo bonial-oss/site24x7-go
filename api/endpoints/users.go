@@ -1,8 +1,8 @@
 package endpoints
 
 import (
-	"github.com/Bonial-International-GmbH/site24x7-go/api"
-	"github.com/Bonial-International-GmbH/site24x7-go/rest"
+	"github.com/bonial-oss/site24x7-go/api"
+	"github.com/bonial-oss/site24x7-go/rest"
 )
 
 // Users is the interface for managing Site24x7 user accounts.

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Bonial-International-GmbH/site24x7-go/api"
+	"github.com/bonial-oss/site24x7-go/api"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"

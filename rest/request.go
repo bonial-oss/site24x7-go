@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/Bonial-International-GmbH/site24x7-go/api"
-	apierrors "github.com/Bonial-International-GmbH/site24x7-go/api/errors"
+	"github.com/bonial-oss/site24x7-go/api"
+	apierrors "github.com/bonial-oss/site24x7-go/api/errors"
 	"github.com/google/go-querystring/query"
 	log "github.com/sirupsen/logrus"
 )

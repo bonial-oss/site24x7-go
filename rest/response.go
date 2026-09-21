@@ -3,7 +3,7 @@ package rest
 import (
 	"encoding/json"
 
-	"github.com/Bonial-International-GmbH/site24x7-go/api"
+	"github.com/bonial-oss/site24x7-go/api"
 )
 
 // Response is a holder for the response body and errors that happened during a

@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"testing"
 
-	apierrors "github.com/Bonial-International-GmbH/site24x7-go/api/errors"
+	apierrors "github.com/bonial-oss/site24x7-go/api/errors"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

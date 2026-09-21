@@ -1,9 +1,9 @@
 package fake
 
 import (
-	"github.com/Bonial-International-GmbH/site24x7-go"
-	"github.com/Bonial-International-GmbH/site24x7-go/api/endpoints"
-	"github.com/Bonial-International-GmbH/site24x7-go/api/endpoints/fake"
+	"github.com/bonial-oss/site24x7-go"
+	"github.com/bonial-oss/site24x7-go/api/endpoints"
+	"github.com/bonial-oss/site24x7-go/api/endpoints/fake"
 )
 
 var _ site24x7.Client = &Client{}

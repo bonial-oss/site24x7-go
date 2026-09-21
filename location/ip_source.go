@@ -5,7 +5,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/Bonial-International-GmbH/site24x7-go/api"
+	"github.com/bonial-oss/site24x7-go/api"
 )
 
 const (
