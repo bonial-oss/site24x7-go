@@ -1,13 +1,13 @@
 module github.com/bonial-oss/site24x7-go
 
-go 1.25.10
+go 1.26.0
 
 require (
 	github.com/google/go-querystring v1.2.0
 	github.com/hashicorp/go-retryablehttp v0.7.8
 	github.com/sirupsen/logrus v1.9.4
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/oauth2 v0.36.0
+	golang.org/x/oauth2 v0.37.0
 )
 
 require (
